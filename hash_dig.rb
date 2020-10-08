@@ -11,3 +11,6 @@ sample_hash = {
       }
    }
 }
+
+p sample_hash.keys
+p sample_hash.fetch(:class)

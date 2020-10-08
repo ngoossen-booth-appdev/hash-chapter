@@ -7,3 +7,13 @@
 sample_hash = {:a => 100, :b => 200, :c => 300, :d => 400, :e => rand(200), :f => 600, :g => 0 }
 
 p "Enter an integer to find:"
+int=gets.chomp
+
+p sample_hash:keys
+
+
+if #I find the number in the hash keys
+
+else
+  p "Could not find the integer " + int.to_s + ""
+end

@@ -22,5 +22,4 @@ while i<list_of_people.length
   else
     i=i+1
   end
-
 end
